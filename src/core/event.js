@@ -1,5 +1,5 @@
 import eventOrigin from '../typeOrigin/eventOrigin'
-
+import eventBlock from '../typeBlock/eventBlock'
 
 function event(CSwiper) {
     // 
@@ -10,6 +10,7 @@ function event(CSwiper) {
                 eventOrigin(this)
                 break;
             default:
+                eventBlock(this)
                 return 
         }
 
