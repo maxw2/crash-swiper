@@ -2,11 +2,9 @@ const path = require('path')
 
 
 module.exports = {
-    mode: 'development',
     watch: true,
     entry: {
-        CSwiper: './index.js',
-        view: './view/index.js'
+        CSwiper: './src/swiper.js',
     },
     output: {
         filename: '[name].js',
