@@ -23,7 +23,7 @@ let swiper = new CSwiper(el,option)
 | key     | value                         | type |
 |:-----   | :---------------------------  |:-----|
 |imgList  | ['./img1.jpg','./img2.jpg']   |array |
-|type     | {rows:number,cols:number} || 1|object| 
+|type     | {rows:number,cols:number}     |object| 
 
 
 ## License
