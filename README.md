@@ -1,6 +1,6 @@
 # crash-swiper
 
-使用原生js编写的轮播图组件 
+使用原生js编写的轮播图组件  
 演示链接： [Demo](https://maxw2.github.io/crash-swiper/)
 
 ## Installation
