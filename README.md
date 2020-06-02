@@ -24,6 +24,11 @@ let swiper = new CSwiper(el,option)
 |imgList  | ['./img1.jpg','./img2.jpg']   |array |
 |type     | {rows:number,cols:number} \| 1    |object \| number | 
 
+## method
+**onNext()** 下一张  
+**onPrev()** 上一张   
+**onChange(num)** 选择序列
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
